@@ -1,0 +1,28 @@
+@media(max-width:1025px){
+    .container{
+        width: 100%;
+        padding: 0;
+    }
+}
+@media(max-width:766px){
+    .pn{
+        display: none;
+    }
+    .ins{
+        width: 100%;
+        
+    }
+    .container{
+        width: 100%;
+        padding: 1%;
+    }
+    
+}
+@media(max-width:900px){
+    .sub-container{
+        padding: 1%;
+    }
+    .mini-container{
+        padding: 0;
+    }
+}
